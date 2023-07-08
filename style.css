@@ -1,0 +1,86 @@
+.box1{
+    color:rgb(11, 4, 4);
+    border:5px solid rgb(232, 121, 96);
+    background-color:rgb(41, 5, 5)
+    border-radius:30px;
+    font-size: 25;
+    padding:30px;
+    text-align: center;
+    margin:10px 50px;
+    
+}
+.box2{
+    color:white;
+    border:5px dashed rgb(81, 81, 138);
+    background-color: rgb(9, 75, 14);
+    border-radius:30px;
+    font-size: 25;
+    padding:20px;
+    text-align: center;
+    margin:20px 70px;
+
+}
+.box3{
+    color:white;
+    border:5px dotted rgb(88, 88, 232);
+    background-color: rgb(152, 227, 158);
+    border-radius:30px;
+    font-size: 25;
+    padding:20px;
+    text-align: center;
+    margin:20px 70px;
+    
+}
+.box4{
+    color:white;
+    border:5px double rgb(127, 127, 239);
+    background-color: rgb(61, 227, 61);
+    border-radius:30px;
+    font-size: 25;
+    padding:20px;
+    text-align: center;
+    margin:20px 70px;
+}
+.box5{
+    color:white;
+    border:5px ridge rgb(17, 17, 53);
+    background-color: rgb(164, 242, 170);
+    border-radius:30px;
+    font-size: 25;
+    padding:20px;
+    text-align: center;
+    margin:20px 70px;
+}
+.box6{
+    color:white;
+    border:5px insert rgb(24, 13, 13);
+    background-color: rgb(1, 32, 4);
+    border-radius:30px;
+    font-size: 25;
+    padding:20px;
+    text-align: center;
+    margin:20px 70px;
+}
+.box7{
+    color:white;
+    border:5px outset rgb(207, 38, 114);
+    background-color: rgb(148, 241, 155);
+    border-radius:30px;
+    font-size: 25;
+    padding:20px;
+    text-align: center;
+    margin:20px 70px;
+}
+.box8{
+    color:white;
+    border:5px groove rgb(13, 13, 24);
+    background-color: rgb(132, 209, 230);
+    border-radius:30px;
+    font-size: 25;
+    padding:20px;
+    text-align: center;
+    margin:20px 70px;
+}
+
+
+
